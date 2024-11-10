@@ -1,0 +1,1 @@
+<P>this contains a simple LR model implemented via python from scratch</p>
